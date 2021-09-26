@@ -1,0 +1,35 @@
+html {
+    font-size: 20px;
+    font-family: 'Glory';
+    background-color: cadetblue;
+    
+
+}
+h1{
+font-size: 60PX;
+text-align: center;
+color: blue ;
+text-shadow: 4px 0PX 0px black
+}
+
+P, LI {
+    font-size: 18PX;
+    line-height: 2;
+    letter-spacing: 1PX;
+    margin: 20PX;
+    margin: 0;
+   
+}
+
+body {
+    BORDER: 5PX SOLID BLACK;
+    background-color: chocolate;
+    margin: 30PX;
+    padding: 20PX;
+
+}
+
+img { display: block;
+    margin: 0 auto;
+
+}
